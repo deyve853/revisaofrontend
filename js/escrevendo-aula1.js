@@ -12,5 +12,8 @@ button.onclick = function () {
   if ((nome = "git init")) {
     alert("O" + nome + ", serve para iniciar o git.Parabéns você acertou!");
   }
+  else {
+    alert(("Você errou! Tente novamente."));
+  }
   window.location="aula2.html";
 };
