@@ -1,0 +1,22 @@
+#texto {
+    margin-top: 10px;
+    text-align: center;
+    background: rgb(2, 0, 36);
+    background-color: black;
+    color: #ffffff;
+    font-size: 12px;
+    height: 150px;
+    border-radius: 100px 1px;
+    border: 1px solid #00ff4c;
+}
+#F {
+    margin-top: 10px;
+    text-align: center;
+    background: rgb(2, 0, 36);
+    background-color: black;
+    color: #ffffff;
+    font-size: 12px;
+    height: px;
+    border-radius: 100px 1px;
+    border: 1px solid #ff0f0f;
+}
